@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-transform-import-object-assign",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "repository": "https://github.com/mitchellhamilton/babel-plugin-transform-import-object-assign",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "jest": "^23.6.0",
+    "prettier": "^1.14.3"
+  },
+  "dependencies": {
+    "@babel/helper-module-imports": "^7.0.0"
+  }
+}
